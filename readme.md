@@ -3,3 +3,6 @@
 ____
 # Уже переведено:
 1. Chapter 1 | Basic Ideas :white_check_mark:
+____
+# В процессе:
+2. Chapter 2 | Introducing Fundamental Types of Data :black_square_button:
